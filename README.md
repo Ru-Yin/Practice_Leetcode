@@ -1,2 +1,2 @@
 # Practice_Leetcode
-Record my resolutions of questions in Leetcode 
+Record my solutions of questions in Leetcode 
